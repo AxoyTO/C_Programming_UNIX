@@ -1,0 +1,4 @@
+C:\Users\toaxo\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\OneDrive\Masaüstü\ВМК\Программирование\С\C\С12
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/OneDrive/MasaÃ¼stÃ¼/Ğ’ĞœĞš/ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¼Ğ¸Ñ€Ğ¾Ğ²Ğ°Ğ½Ğ¸Ğµ/Ğ¡/C/Ğ¡12/cmake-build-debug

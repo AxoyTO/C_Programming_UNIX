@@ -1,0 +1,3 @@
+E:/OneDrive/Masaüstü/ВМК/Программирование/С/C/C14/cmake-build-debug/CMakeFiles/C14.dir
+E:/OneDrive/Masaüstü/ВМК/Программирование/С/C/C14/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/OneDrive/Masaüstü/ВМК/Программирование/С/C/C14/cmake-build-debug/CMakeFiles/rebuild_cache.dir

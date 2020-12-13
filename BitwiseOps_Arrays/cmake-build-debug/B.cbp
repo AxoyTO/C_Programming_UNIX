@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="B"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B">
+				<Option output="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 B"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B/fast">
+				<Option output="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 B/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/B22.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/isimsiz.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/main.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb1.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb10.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb11.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb12.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb13.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb14.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb15.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb16.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb17.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb18.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb19.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb2.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb20.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb21.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb22.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb23.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb24.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb3.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb4.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb5.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb6.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb7.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb8.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/mainb9.c">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/Masaüstü/ВМК/Программирование/С/B/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

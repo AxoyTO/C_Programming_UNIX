@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/OneDrive/Masaüstü/ВМК/Программирование/С/D/D0/main.c
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+
