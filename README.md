@@ -1,4 +1,4 @@
-# C_Programming
+# C Programming. Basics of C language. Projects containing {Arrays, Strings, BinarySearchTrees, BitwiseOps, LinkedLists, ProcessManagement, MemoryManagement, IPC}
 Programs that I've written in C Language. Some of them are for educational purposes.
 
 Hello and welcome!
