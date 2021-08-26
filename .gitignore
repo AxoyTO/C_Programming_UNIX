@@ -29,7 +29,7 @@ CMakeLists.txt
 **/CMakeScripts
 **/compile_commands.json
 .idea/*.xml
-
+*.idea/
 build/**/*
 
 include/*
