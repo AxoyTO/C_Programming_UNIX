@@ -17,7 +17,7 @@ main
 */out
 */cmake-build-debug/
 CMakeLists.txt
-
+*/CMakeLists.txt
 **/cmake-build-debug
 **/CMakeCache.txt
 **/cmake_install.cmake
