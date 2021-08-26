@@ -14,9 +14,9 @@ main
 */cmake-build-debug
 *.iml
 *.xml
-*.txt
 */out
 */cmake-build-debug/
+CMakeLists.txt
 
 **/cmake-build-debug
 **/CMakeCache.txt
