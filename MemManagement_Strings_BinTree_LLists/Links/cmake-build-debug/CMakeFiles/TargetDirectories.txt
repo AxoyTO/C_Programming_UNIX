@@ -1,3 +1,0 @@
-E:/OneDrive/Masaüstü/ВМК/Программирование/С/C/links/cmake-build-debug/CMakeFiles/links.dir
-E:/OneDrive/Masaüstü/ВМК/Программирование/С/C/links/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/OneDrive/Masaüstü/ВМК/Программирование/С/C/links/cmake-build-debug/CMakeFiles/rebuild_cache.dir

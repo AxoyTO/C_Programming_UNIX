@@ -1,3 +1,0 @@
-This is is a long string with length more than 50 
-But this string is short.
-And this string is last. Its length more than 50 c

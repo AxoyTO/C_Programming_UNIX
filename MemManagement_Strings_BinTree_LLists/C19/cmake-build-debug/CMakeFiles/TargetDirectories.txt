@@ -1,3 +1,0 @@
-E:/OneDrive/Masaüstü/ВМК/Программирование/С/C/C19/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/OneDrive/Masaüstü/ВМК/Программирование/С/C/C19/cmake-build-debug/CMakeFiles/C19.dir
-E:/OneDrive/Masaüstü/ВМК/Программирование/С/C/C19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
